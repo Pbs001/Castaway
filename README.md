@@ -12,9 +12,8 @@ Once the features extraction starts it might take the model about 30 mins to tra
 #generating images :
 Once the training is completed we can test the model by prompting in the code or using the gradio UI/UX to prompt and get the result 
 
-Examples of Images generated:
+#Examples of Images generated:
 ![Unknown-2](https://user-images.githubusercontent.com/92366213/235106827-fac123ed-ae9f-4ee0-8e4a-a9f32ada14a9.png)
 ![Unknown-3](https://user-images.githubusercontent.com/92366213/235106850-92561ce0-81dd-443f-901e-a9b657d157b6.png)
 ![Unknown](https://user-images.githubusercontent.com/92366213/235106855-ab31fd00-8b52-4bbc-93dd-faf839c1d3b8.png)
-blob:https://web.whatsapp.com/8b8255eb-7804-4386-9c72-0c79b8a5724b![image](https://user-images.githubusercontent.com/92366213/235107186-26e8f689-245b-4785-bbed-15627b0852fd.png)
-blob:https://web.whatsapp.com/9c40cbc4-94f4-4551-b132-136d883e5507![image](https://user-images.githubusercontent.com/92366213/235107240-081cf0ce-2753-4c46-9c22-d94290e7f786.png)
+
