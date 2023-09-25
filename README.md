@@ -3,6 +3,7 @@ Castaway is a diffusion model which runs on dreambooth model. It uses stable dif
 This model helps you to inject yourself into AI and make any images with your face. 
 
 ## To start with:
+Follow the steps mentioned in the code.
 The user needs to upload 15-20 pictures of themselves to get good results and slight modification needs to be made in terms of step size and intervals. 
 We use a thumb rule that the step size needs to be 100*(the number of images) and the interval can be same as step size but not greater than step size. 
 The parameters need to be updated in the code and is shown in the picture below.
